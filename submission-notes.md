@@ -2,7 +2,32 @@
 
 ## Project Overview
 
-This project is a dynamic Target Management Dashboard developed using Next.js. You can view the deployed application at [this link](https://main.d1exqf9281sv26.amplifyapp.com/).
+This project is a dynamic Target Management Dashboard developed using Next.js. 
+
+## Website launched Link --> [TargetManagement.com](https://main.d1exqf9281sv26.amplifyapp.com/).(To view UI)
+
+## Project Setup Instructions
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- **Node.js** (version 14 or later)
+- **npm** (comes with Node.js)
+- **PostgreSQL** (if re-integrating database functionality)
+- A code editor (e.g., Visual Studio Code)
+
+### Steps to Setup and Run
+
+1. **Download the Project**:
+   - Unzip the project files you received.
+
+2. **Navigate to the Project Directory**:
+   Open your terminal and navigate to the root folder of the project:
+   ```bash
+   cd path/to/your/project
 
 - **Home Page**: 
   - Contains routes to the Dashboard and Track Changes pages.
