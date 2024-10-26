@@ -15,13 +15,19 @@
     "id": 2,
     "name": "GreenLeaf Renewables",
     "description": "Sustainable energy company focusing on solar and wind power solutions.",
-    "pipelineStatus": "passed",
+    "pipelineStatus": "Closed",
     "markets": [
       "Energy",
       "Sustainability",
       "Clean Tech"
     ],
-    "lastUpdated": "2024-10-25T21:50:06.738Z"
+    "lastUpdated": "2024-10-26T02:03:05.563Z",
+    "history": [
+      {
+        "status": "passed",
+        "updatedAt": "2024-10-26T02:03:05.563Z"
+      }
+    ]
   },
   {
     "id": 3,
@@ -39,13 +45,19 @@
     "id": 4,
     "name": "FinSecure Systems",
     "description": "Cybersecurity firm specializing in financial sector protection and compliance.",
-    "pipelineStatus": "Closed",
+    "pipelineStatus": "Hot",
     "markets": [
       "Cybersecurity",
       "Finance",
       "Regulatory Compliance"
     ],
-    "lastUpdated": "2024-10-25T22:05:36.019Z"
+    "lastUpdated": "2024-10-26T02:08:04.461Z",
+    "history": [
+      {
+        "status": "Closed",
+        "updatedAt": "2024-10-26T02:08:04.461Z"
+      }
+    ]
   },
   {
     "id": 5,
@@ -99,13 +111,19 @@
     "id": 9,
     "name": "BioGen Therapeutics",
     "description": "Biotechnology company focused on developing gene therapies for rare diseases.",
-    "pipelineStatus": null,
+    "pipelineStatus": "Cold",
     "markets": [
       "Biotechnology",
       "Healthcare",
       "Pharmaceuticals"
     ],
-    "lastUpdated": "2023-04-07T15:20:00Z"
+    "lastUpdated": "2024-10-26T01:51:27.852Z",
+    "history": [
+      {
+        "status": null,
+        "updatedAt": "2024-10-26T01:51:27.852Z"
+      }
+    ]
   },
   {
     "id": 10,
@@ -225,9 +243,19 @@
     "id": 19,
     "name": "GenomeX Research",
     "description": "Genomics research company focused on personalized medicine applications.",
-    "pipelineStatus": null,
+    "pipelineStatus": "Cold",
     "markets": [],
-    "lastUpdated": "2023-03-28T09:20:00Z"
+    "lastUpdated": "2024-10-26T02:02:45.691Z",
+    "history": [
+      {
+        "status": null,
+        "updatedAt": "2024-10-26T02:02:25.337Z"
+      },
+      {
+        "status": "Active",
+        "updatedAt": "2024-10-26T02:02:45.691Z"
+      }
+    ]
   },
   {
     "id": 20,
