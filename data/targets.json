@@ -3,49 +3,49 @@
     "id": 1,
     "name": "TechNova Solutions",
     "description": "Innovative software development company specializing in AI and machine learning applications.",
-    "pipelineStatus": "Hot",
+    "pipelineStatus": "Cold",
     "markets": [
       "Technology",
       "Artificial Intelligence",
       "Enterprise Software"
     ],
-    "lastUpdated": "2023-04-15T10:30:00Z"
+    "lastUpdated": "2024-10-25T23:18:56.182Z"
   },
   {
     "id": 2,
     "name": "GreenLeaf Renewables",
     "description": "Sustainable energy company focusing on solar and wind power solutions.",
-    "pipelineStatus": "Active",
+    "pipelineStatus": "passed",
     "markets": [
       "Energy",
       "Sustainability",
       "Clean Tech"
     ],
-    "lastUpdated": "2023-04-14T16:45:00Z"
+    "lastUpdated": "2024-10-25T21:50:06.738Z"
   },
   {
     "id": 3,
     "name": "HealthPlus Innovations",
     "description": "Healthcare technology company developing wearable devices for remote patient monitoring.",
-    "pipelineStatus": "Passed",
+    "pipelineStatus": "Cold",
     "markets": [
       "Healthcare",
       "Wearable Technology",
       "IoT"
     ],
-    "lastUpdated": "2023-04-13T09:15:00Z"
+    "lastUpdated": "2024-10-25T22:06:52.427Z"
   },
   {
     "id": 4,
     "name": "FinSecure Systems",
     "description": "Cybersecurity firm specializing in financial sector protection and compliance.",
-    "pipelineStatus": "Cold",
+    "pipelineStatus": "Closed",
     "markets": [
       "Cybersecurity",
       "Finance",
       "Regulatory Compliance"
     ],
-    "lastUpdated": "2023-04-12T14:20:00Z"
+    "lastUpdated": "2024-10-25T22:05:36.019Z"
   },
   {
     "id": 5,
@@ -63,37 +63,37 @@
     "id": 6,
     "name": "LogiSmart Solutions",
     "description": "Supply chain optimization company using IoT and blockchain technologies.",
-    "pipelineStatus": "Hot",
+    "pipelineStatus": "Cold",
     "markets": [
       "Logistics",
       "Supply Chain",
       "Blockchain"
     ],
-    "lastUpdated": "2023-04-10T17:30:00Z"
+    "lastUpdated": "2024-10-25T22:07:24.492Z"
   },
   {
     "id": 7,
     "name": "AgroTech Innovations",
     "description": "Agricultural technology company developing smart farming solutions and crop management systems.",
-    "pipelineStatus": "Passed",
+    "pipelineStatus": "Hot",
     "markets": [
       "Agriculture",
       "IoT",
       "Sustainability"
     ],
-    "lastUpdated": "2023-04-09T13:45:00Z"
+    "lastUpdated": "2024-10-25T23:22:10.494Z"
   },
   {
     "id": 8,
     "name": "VirtualReality Worlds",
     "description": "VR/AR company creating immersive experiences for entertainment and training purposes.",
-    "pipelineStatus": "Active",
+    "pipelineStatus": "Hot",
     "markets": [
       "Virtual Reality",
       "Augmented Reality",
       "Entertainment"
     ],
-    "lastUpdated": "2023-04-08T10:00:00Z"
+    "lastUpdated": "2024-10-25T22:07:30.360Z"
   },
   {
     "id": 9,
@@ -197,7 +197,17 @@
       "Sustainability",
       "Biotechnology"
     ],
-    "lastUpdated": "2023-03-30T15:45:00Z"
+    "lastUpdated": "2024-10-25T23:36:51.934Z",
+    "history": [
+      {
+        "status": "Active",
+        "updatedAt": "2024-10-25T23:31:46.228Z"
+      },
+      {
+        "status": "Cold",
+        "updatedAt": "2024-10-25T23:36:51.934Z"
+      }
+    ]
   },
   {
     "id": 18,
@@ -307,13 +317,23 @@
     "id": 27,
     "name": "AeroMobility",
     "description": "Developing electric vertical takeoff and landing (eVTOL) aircraft for urban air mobility.",
-    "pipelineStatus": "Hot",
+    "pipelineStatus": "Cold",
     "markets": [
       "Aviation",
       "Electric Vehicles",
       "Urban Transportation"
     ],
-    "lastUpdated": "2023-03-20T15:15:00Z"
+    "lastUpdated": "2024-10-25T23:36:54.480Z",
+    "history": [
+      {
+        "status": "Hot",
+        "updatedAt": "2024-10-25T23:30:52.207Z"
+      },
+      {
+        "status": "Active",
+        "updatedAt": "2024-10-25T23:36:54.480Z"
+      }
+    ]
   },
   {
     "id": 28,
