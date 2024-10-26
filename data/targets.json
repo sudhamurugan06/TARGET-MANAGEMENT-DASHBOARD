@@ -351,13 +351,19 @@
     "id": 29,
     "name": "AI Ethics Lab",
     "description": "Developing frameworks and tools for ethical AI development and deployment.",
-    "pipelineStatus": null,
+    "pipelineStatus": "Hot",
     "markets": [
       "Artificial Intelligence",
       "Ethics",
       "Consulting"
     ],
-    "lastUpdated": "2023-03-18T09:50:00Z"
+    "lastUpdated": "2024-10-26T01:44:09.601Z",
+    "history": [
+      {
+        "status": null,
+        "updatedAt": "2024-10-26T01:44:09.601Z"
+      }
+    ]
   },
   {
     "id": 30,
